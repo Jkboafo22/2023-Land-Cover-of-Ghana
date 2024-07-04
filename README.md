@@ -38,7 +38,8 @@ In regions like Ghana, distinct classifications are crucial for monitoring defor
 
 
 
-![2023LandCoverDist](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/adf88a52-60bf-443b-a711-d7637df4ca4e)
+![2023LandCoverDist](https://github.com/Jkboafo22/2023-Land-Cover-of-Ghana/assets/65027196/7dd4be49-eea3-4aaa-be0b-7a7b1ad48ed4)
+
 
 
 
