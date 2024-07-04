@@ -18,7 +18,8 @@ The newly released ESRI 2023 land cover data provides valuable insights into Gha
 
 
 
-![2023 Land Cover](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/c2e5f17d-ab3d-44df-8e0e-81bb53708c57)
+![2023 GH Land Cover](https://github.com/Jkboafo22/2023-Land-Cover-of-Ghana/assets/65027196/33fc45ff-d0c7-4192-860f-cf56efac509f)
+
 
 
 
