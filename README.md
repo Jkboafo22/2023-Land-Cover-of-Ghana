@@ -2,7 +2,7 @@
 
 
 
-## 2023 Land Cover of Ghana: Insights Observations
+## 2023 Land Cover of Ghana: Insights & Observations
 
 
 ### 🏞️ Understanding Ghana's Landscape:
