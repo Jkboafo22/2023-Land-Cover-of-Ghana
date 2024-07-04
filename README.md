@@ -22,7 +22,7 @@ The newly released ESRI 2023 land cover data provides valuable insights into Gha
 
 
 
-![2023LandCoverDist](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/f9cb1b46-6908-4f76-9512-7f561fc32c21)
+![2023LandCoverDist](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/adf88a52-60bf-443b-a711-d7637df4ca4e)
 
 
 
