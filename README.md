@@ -46,3 +46,12 @@ In regions like Ghana, distinct classifications are crucial for monitoring defor
 ![TABLE](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/2bff3da4-ac51-4113-89c2-9a7cd6e97ac5)
 
 
+
+## **Language/Tools:**
+🔧 Google Earth Engine(GEE) Map Python API
+🔧 Jupyter Notebook
+
+## **Data and Data Provider:**
+📊 Data: Sentinel-2 satellite imagery,produced by Impact Observatory for Esri. © 2021 Esri.
+
+
